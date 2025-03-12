@@ -1,0 +1,3692 @@
+{
+  "metadata": { "tags": [], "concepts": [] },
+  "sys": {
+    "space": {
+      "sys": { "type": "Link", "linkType": "Space", "id": "i75ffwojme8c" }
+    },
+    "id": "3u71kunYstiKhIIYui24wn",
+    "type": "Entry",
+    "createdAt": "2025-02-19T14:23:09.446Z",
+    "updatedAt": "2025-03-05T20:57:00.611Z",
+    "environment": {
+      "sys": {
+        "id": "template-testing",
+        "type": "Link",
+        "linkType": "Environment"
+      }
+    },
+    "publishedVersion": 10,
+    "revision": 4,
+    "contentType": {
+      "sys": {
+        "type": "Link",
+        "linkType": "ContentType",
+        "id": "contentVariants"
+      }
+    },
+    "locale": "en-CA"
+  },
+  "fields": {
+    "name": "Regionalization testing - List",
+    "content": [
+      {
+        "metadata": { "tags": [], "concepts": [] },
+        "sys": {
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "i75ffwojme8c" }
+          },
+          "id": "4sQntbsZI5Xz8T97Y6r14m",
+          "type": "Entry",
+          "createdAt": "2025-02-19T14:23:09.481Z",
+          "updatedAt": "2025-03-12T22:11:10.037Z",
+          "environment": {
+            "sys": {
+              "id": "template-testing",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 43,
+          "revision": 18,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "itemList"
+            }
+          },
+          "locale": "en-CA"
+        },
+        "fields": {
+          "name": "Regionalization testing - List (default) ",
+          "heading": "Regionalization testing - List",
+          "copy": {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "Regionalization testing - List",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          },
+          "listItem": [
+            {
+              "metadata": { "tags": [], "concepts": [] },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "i75ffwojme8c"
+                  }
+                },
+                "id": "7IRjMqVpfdivUWZsAvgCFq",
+                "type": "Entry",
+                "createdAt": "2025-02-19T14:23:09.515Z",
+                "updatedAt": "2025-03-12T22:10:15.601Z",
+                "environment": {
+                  "sys": {
+                    "id": "template-testing",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 6,
+                "revision": 2,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "listItem"
+                  }
+                },
+                "locale": "en-CA"
+              },
+              "fields": {
+                "name": "Regionalization testing - Another Promotion Kevin",
+                "itemListElement": {
+                  "metadata": { "tags": [], "concepts": [] },
+                  "sys": {
+                    "space": {
+                      "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "i75ffwojme8c"
+                      }
+                    },
+                    "id": "6znQHfy9B8ZrIznFe4SlPV",
+                    "type": "Entry",
+                    "createdAt": "2025-02-18T16:35:46.264Z",
+                    "updatedAt": "2025-03-05T20:57:12.855Z",
+                    "environment": {
+                      "sys": {
+                        "id": "template-testing",
+                        "type": "Link",
+                        "linkType": "Environment"
+                      }
+                    },
+                    "publishedVersion": 12,
+                    "revision": 3,
+                    "contentType": {
+                      "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "contentVariants"
+                      }
+                    },
+                    "locale": "en-CA"
+                  },
+                  "fields": {
+                    "name": "Promotion - Kevin test",
+                    "content": [
+                      {
+                        "metadata": { "tags": [], "concepts": [] },
+                        "sys": {
+                          "space": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "Space",
+                              "id": "i75ffwojme8c"
+                            }
+                          },
+                          "id": "7u4uJ2d1weyp9JyNPf9uCq",
+                          "type": "Entry",
+                          "createdAt": "2025-02-18T16:35:46.312Z",
+                          "updatedAt": "2025-03-12T22:07:41.609Z",
+                          "environment": {
+                            "sys": {
+                              "id": "template-testing",
+                              "type": "Link",
+                              "linkType": "Environment"
+                            }
+                          },
+                          "publishedVersion": 37,
+                          "revision": 15,
+                          "contentType": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "ContentType",
+                              "id": "promotion"
+                            }
+                          },
+                          "locale": "en-CA"
+                        },
+                        "fields": {
+                          "name": "Promotion - Kevin test (no audience)",
+                          "label": "Promotion - Kevin test",
+                          "superHeading": "Promotion - Kevin test",
+                          "heading": "Promotion - Kevin test (no audience)",
+                          "subHeading": "Promotion - Kevin test",
+                          "copy": {
+                            "data": {},
+                            "content": [
+                              {
+                                "data": {},
+                                "content": [
+                                  {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Promotion - Kevin test",
+                                    "nodeType": "text"
+                                  }
+                                ],
+                                "nodeType": "paragraph"
+                              }
+                            ],
+                            "nodeType": "document"
+                          },
+                          "image": {
+                            "metadata": { "tags": [], "concepts": [] },
+                            "sys": {
+                              "space": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "Space",
+                                  "id": "i75ffwojme8c"
+                                }
+                              },
+                              "id": "2NPFrU3nlj9eauWPYddbx4",
+                              "type": "Entry",
+                              "createdAt": "2025-01-02T20:30:58.043Z",
+                              "updatedAt": "2025-01-02T20:30:58.043Z",
+                              "environment": {
+                                "sys": {
+                                  "id": "template-testing",
+                                  "type": "Link",
+                                  "linkType": "Environment"
+                                }
+                              },
+                              "publishedVersion": 8,
+                              "revision": 1,
+                              "contentType": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "ContentType",
+                                  "id": "image"
+                                }
+                              },
+                              "locale": "en-CA"
+                            },
+                            "fields": {
+                              "name": "Image 1",
+                              "imageAsset": {
+                                "metadata": { "tags": [], "concepts": [] },
+                                "sys": {
+                                  "space": {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "Space",
+                                      "id": "i75ffwojme8c"
+                                    }
+                                  },
+                                  "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                  "type": "Asset",
+                                  "createdAt": "2022-10-24T21:27:35.943Z",
+                                  "updatedAt": "2022-10-24T21:27:35.943Z",
+                                  "environment": {
+                                    "sys": {
+                                      "id": "template-testing",
+                                      "type": "Link",
+                                      "linkType": "Environment"
+                                    }
+                                  },
+                                  "publishedVersion": 4,
+                                  "revision": 1,
+                                  "locale": "en-CA"
+                                },
+                                "fields": {
+                                  "title": "Fish",
+                                  "description": "Fish",
+                                  "file": {
+                                    "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                    "details": {
+                                      "size": 416825,
+                                      "image": { "width": 1200, "height": 1330 }
+                                    },
+                                    "fileName": "fish.jpg",
+                                    "contentType": "image/jpeg"
+                                  }
+                                }
+                              },
+                              "alternativeText": "Alternative text, English",
+                              "caption": "Caption, English",
+                              "decorativeImage": false
+                            }
+                          },
+                          "callToAction": [
+                            {
+                              "metadata": { "tags": [], "concepts": [] },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "Hcpmbfgzy8XjFRhOLoxB3",
+                                "type": "Entry",
+                                "createdAt": "2025-01-02T20:37:08.383Z",
+                                "updatedAt": "2025-02-25T17:38:20.192Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 21,
+                                "revision": 2,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "callToAction"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": {
+                                "name": "Call to action 1",
+                                "ctaText": "CTA text, English1",
+                                "ctaSubcopy": {
+                                  "data": {},
+                                  "content": [
+                                    {
+                                      "data": {},
+                                      "content": [
+                                        {
+                                          "data": {},
+                                          "marks": [],
+                                          "value": "CTA subcopy, English. This example type has values for all fields, including fr-CA values for localizable fields.",
+                                          "nodeType": "text"
+                                        }
+                                      ],
+                                      "nodeType": "paragraph"
+                                    }
+                                  ],
+                                  "nodeType": "document"
+                                },
+                                "image": {
+                                  "metadata": { "tags": [], "concepts": [] },
+                                  "sys": {
+                                    "space": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "Space",
+                                        "id": "i75ffwojme8c"
+                                      }
+                                    },
+                                    "id": "2NPFrU3nlj9eauWPYddbx4",
+                                    "type": "Entry",
+                                    "createdAt": "2025-01-02T20:30:58.043Z",
+                                    "updatedAt": "2025-01-02T20:30:58.043Z",
+                                    "environment": {
+                                      "sys": {
+                                        "id": "template-testing",
+                                        "type": "Link",
+                                        "linkType": "Environment"
+                                      }
+                                    },
+                                    "publishedVersion": 8,
+                                    "revision": 1,
+                                    "contentType": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "ContentType",
+                                        "id": "image"
+                                      }
+                                    },
+                                    "locale": "en-CA"
+                                  },
+                                  "fields": {
+                                    "name": "Image 1",
+                                    "imageAsset": {
+                                      "metadata": {
+                                        "tags": [],
+                                        "concepts": []
+                                      },
+                                      "sys": {
+                                        "space": {
+                                          "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "i75ffwojme8c"
+                                          }
+                                        },
+                                        "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                        "type": "Asset",
+                                        "createdAt": "2022-10-24T21:27:35.943Z",
+                                        "updatedAt": "2022-10-24T21:27:35.943Z",
+                                        "environment": {
+                                          "sys": {
+                                            "id": "template-testing",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                          }
+                                        },
+                                        "publishedVersion": 4,
+                                        "revision": 1,
+                                        "locale": "en-CA"
+                                      },
+                                      "fields": {
+                                        "title": "Fish",
+                                        "description": "Fish",
+                                        "file": {
+                                          "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                          "details": {
+                                            "size": 416825,
+                                            "image": {
+                                              "width": 1200,
+                                              "height": 1330
+                                            }
+                                          },
+                                          "fileName": "fish.jpg",
+                                          "contentType": "image/jpeg"
+                                        }
+                                      }
+                                    },
+                                    "alternativeText": "Alternative text, English",
+                                    "caption": "Caption, English",
+                                    "decorativeImage": false
+                                  }
+                                },
+                                "url": "https://www.telus.com/en",
+                                "appUrl": "example-app://en",
+                                "ariaLabel": "ARIA label, English"
+                              }
+                            }
+                          ],
+                          "analyticsIdentifier": "promotion-kevin-test"
+                        }
+                      },
+                      {
+                        "metadata": { "tags": [], "concepts": [] },
+                        "sys": {
+                          "space": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "Space",
+                              "id": "i75ffwojme8c"
+                            }
+                          },
+                          "id": "57kpjh63iSxxaPacVePflv",
+                          "type": "Entry",
+                          "createdAt": "2025-02-18T16:35:46.511Z",
+                          "updatedAt": "2025-03-06T14:26:58.422Z",
+                          "environment": {
+                            "sys": {
+                              "id": "template-testing",
+                              "type": "Link",
+                              "linkType": "Environment"
+                            }
+                          },
+                          "publishedVersion": 21,
+                          "revision": 9,
+                          "contentType": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "ContentType",
+                              "id": "promotion"
+                            }
+                          },
+                          "locale": "en-CA"
+                        },
+                        "fields": {
+                          "name": "Promotion - Kevin test - QC",
+                          "label": "Promotion - Kevin test - QC",
+                          "superHeading": "Promotion - Kevin test - QC",
+                          "heading": "Promotion - Kevin test - QC",
+                          "subHeading": "Promotion - Kevin test - QC",
+                          "copy": {
+                            "data": {},
+                            "content": [
+                              {
+                                "data": {},
+                                "content": [
+                                  {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Promotion - Kevin test - QC",
+                                    "nodeType": "text"
+                                  }
+                                ],
+                                "nodeType": "paragraph"
+                              }
+                            ],
+                            "nodeType": "document"
+                          },
+                          "image": {
+                            "metadata": { "tags": [], "concepts": [] },
+                            "sys": {
+                              "space": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "Space",
+                                  "id": "i75ffwojme8c"
+                                }
+                              },
+                              "id": "2NPFrU3nlj9eauWPYddbx4",
+                              "type": "Entry",
+                              "createdAt": "2025-01-02T20:30:58.043Z",
+                              "updatedAt": "2025-01-02T20:30:58.043Z",
+                              "environment": {
+                                "sys": {
+                                  "id": "template-testing",
+                                  "type": "Link",
+                                  "linkType": "Environment"
+                                }
+                              },
+                              "publishedVersion": 8,
+                              "revision": 1,
+                              "contentType": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "ContentType",
+                                  "id": "image"
+                                }
+                              },
+                              "locale": "en-CA"
+                            },
+                            "fields": {
+                              "name": "Image 1",
+                              "imageAsset": {
+                                "metadata": { "tags": [], "concepts": [] },
+                                "sys": {
+                                  "space": {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "Space",
+                                      "id": "i75ffwojme8c"
+                                    }
+                                  },
+                                  "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                  "type": "Asset",
+                                  "createdAt": "2022-10-24T21:27:35.943Z",
+                                  "updatedAt": "2022-10-24T21:27:35.943Z",
+                                  "environment": {
+                                    "sys": {
+                                      "id": "template-testing",
+                                      "type": "Link",
+                                      "linkType": "Environment"
+                                    }
+                                  },
+                                  "publishedVersion": 4,
+                                  "revision": 1,
+                                  "locale": "en-CA"
+                                },
+                                "fields": {
+                                  "title": "Fish",
+                                  "description": "Fish",
+                                  "file": {
+                                    "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                    "details": {
+                                      "size": 416825,
+                                      "image": { "width": 1200, "height": 1330 }
+                                    },
+                                    "fileName": "fish.jpg",
+                                    "contentType": "image/jpeg"
+                                  }
+                                }
+                              },
+                              "alternativeText": "Alternative text, English",
+                              "caption": "Caption, English",
+                              "decorativeImage": false
+                            }
+                          },
+                          "callToAction": [
+                            {
+                              "metadata": { "tags": [], "concepts": [] },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "3bmgsNGiZNyfdiCTDomUzR",
+                                "type": "Entry",
+                                "createdAt": "2025-01-02T20:37:58.538Z",
+                                "updatedAt": "2025-01-02T20:37:58.538Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 2,
+                                "revision": 1,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "callToAction"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": {
+                                "name": "Call to action 2",
+                                "ctaText": "CTA text, English",
+                                "ctaSubcopy": {
+                                  "data": {},
+                                  "content": [
+                                    {
+                                      "data": {},
+                                      "content": [
+                                        {
+                                          "data": {},
+                                          "marks": [],
+                                          "value": "CTA subcopy, English. This example type has values for all fields, including fr-CA values for localizable fields.",
+                                          "nodeType": "text"
+                                        }
+                                      ],
+                                      "nodeType": "paragraph"
+                                    }
+                                  ],
+                                  "nodeType": "document"
+                                },
+                                "image": {
+                                  "metadata": { "tags": [], "concepts": [] },
+                                  "sys": {
+                                    "space": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "Space",
+                                        "id": "i75ffwojme8c"
+                                      }
+                                    },
+                                    "id": "2NPFrU3nlj9eauWPYddbx4",
+                                    "type": "Entry",
+                                    "createdAt": "2025-01-02T20:30:58.043Z",
+                                    "updatedAt": "2025-01-02T20:30:58.043Z",
+                                    "environment": {
+                                      "sys": {
+                                        "id": "template-testing",
+                                        "type": "Link",
+                                        "linkType": "Environment"
+                                      }
+                                    },
+                                    "publishedVersion": 8,
+                                    "revision": 1,
+                                    "contentType": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "ContentType",
+                                        "id": "image"
+                                      }
+                                    },
+                                    "locale": "en-CA"
+                                  },
+                                  "fields": {
+                                    "name": "Image 1",
+                                    "imageAsset": {
+                                      "metadata": {
+                                        "tags": [],
+                                        "concepts": []
+                                      },
+                                      "sys": {
+                                        "space": {
+                                          "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "i75ffwojme8c"
+                                          }
+                                        },
+                                        "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                        "type": "Asset",
+                                        "createdAt": "2022-10-24T21:27:35.943Z",
+                                        "updatedAt": "2022-10-24T21:27:35.943Z",
+                                        "environment": {
+                                          "sys": {
+                                            "id": "template-testing",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                          }
+                                        },
+                                        "publishedVersion": 4,
+                                        "revision": 1,
+                                        "locale": "en-CA"
+                                      },
+                                      "fields": {
+                                        "title": "Fish",
+                                        "description": "Fish",
+                                        "file": {
+                                          "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                          "details": {
+                                            "size": 416825,
+                                            "image": {
+                                              "width": 1200,
+                                              "height": 1330
+                                            }
+                                          },
+                                          "fileName": "fish.jpg",
+                                          "contentType": "image/jpeg"
+                                        }
+                                      }
+                                    },
+                                    "alternativeText": "Alternative text, English",
+                                    "caption": "Caption, English",
+                                    "decorativeImage": false
+                                  }
+                                },
+                                "url": "https://www.telus.com/en",
+                                "appUrl": "example-app://en",
+                                "ariaLabel": "ARIA label, English"
+                              }
+                            }
+                          ],
+                          "analyticsIdentifier": "promotion-kevin-test-qc",
+                          "audiences": [
+                            {
+                              "metadata": {
+                                "tags": [],
+                                "concepts": [
+                                  {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "TaxonomyConcept",
+                                      "id": "5iBKdR2Wg4LQNfBpULUEmR"
+                                    }
+                                  }
+                                ]
+                              },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "78vw4swV22v86dVhy6uemF",
+                                "type": "Entry",
+                                "createdAt": "2025-02-18T16:35:46.529Z",
+                                "updatedAt": "2025-02-18T16:35:46.529Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 2,
+                                "revision": 1,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "audienceTaxonomyVersion"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": {
+                                "name": "Promotion - Kevin test - QC",
+                                "default": false
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "metadata": { "tags": [], "concepts": [] },
+                        "sys": {
+                          "space": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "Space",
+                              "id": "i75ffwojme8c"
+                            }
+                          },
+                          "id": "MYKH1Nr5tNEzuafJm4wFl",
+                          "type": "Entry",
+                          "createdAt": "2025-02-18T16:35:46.467Z",
+                          "updatedAt": "2025-02-26T15:14:50.563Z",
+                          "environment": {
+                            "sys": {
+                              "id": "template-testing",
+                              "type": "Link",
+                              "linkType": "Environment"
+                            }
+                          },
+                          "publishedVersion": 8,
+                          "revision": 3,
+                          "contentType": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "ContentType",
+                              "id": "promotion"
+                            }
+                          },
+                          "locale": "en-CA"
+                        },
+                        "fields": {
+                          "name": "Promotion - Kevin test - ABBC",
+                          "label": "Promotion - Kevin test - ABBC",
+                          "superHeading": "Promotion - Kevin test - ABBC",
+                          "heading": "Promotion - Kevin test - ABBC",
+                          "subHeading": "Promotion - Kevin test - ABBC",
+                          "copy": {
+                            "data": {},
+                            "content": [
+                              {
+                                "data": {},
+                                "content": [
+                                  {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Promotion - Kevin test - ABBC",
+                                    "nodeType": "text"
+                                  }
+                                ],
+                                "nodeType": "paragraph"
+                              }
+                            ],
+                            "nodeType": "document"
+                          },
+                          "image": {
+                            "metadata": { "tags": [], "concepts": [] },
+                            "sys": {
+                              "space": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "Space",
+                                  "id": "i75ffwojme8c"
+                                }
+                              },
+                              "id": "2NPFrU3nlj9eauWPYddbx4",
+                              "type": "Entry",
+                              "createdAt": "2025-01-02T20:30:58.043Z",
+                              "updatedAt": "2025-01-02T20:30:58.043Z",
+                              "environment": {
+                                "sys": {
+                                  "id": "template-testing",
+                                  "type": "Link",
+                                  "linkType": "Environment"
+                                }
+                              },
+                              "publishedVersion": 8,
+                              "revision": 1,
+                              "contentType": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "ContentType",
+                                  "id": "image"
+                                }
+                              },
+                              "locale": "en-CA"
+                            },
+                            "fields": {
+                              "name": "Image 1",
+                              "imageAsset": {
+                                "metadata": { "tags": [], "concepts": [] },
+                                "sys": {
+                                  "space": {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "Space",
+                                      "id": "i75ffwojme8c"
+                                    }
+                                  },
+                                  "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                  "type": "Asset",
+                                  "createdAt": "2022-10-24T21:27:35.943Z",
+                                  "updatedAt": "2022-10-24T21:27:35.943Z",
+                                  "environment": {
+                                    "sys": {
+                                      "id": "template-testing",
+                                      "type": "Link",
+                                      "linkType": "Environment"
+                                    }
+                                  },
+                                  "publishedVersion": 4,
+                                  "revision": 1,
+                                  "locale": "en-CA"
+                                },
+                                "fields": {
+                                  "title": "Fish",
+                                  "description": "Fish",
+                                  "file": {
+                                    "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                    "details": {
+                                      "size": 416825,
+                                      "image": { "width": 1200, "height": 1330 }
+                                    },
+                                    "fileName": "fish.jpg",
+                                    "contentType": "image/jpeg"
+                                  }
+                                }
+                              },
+                              "alternativeText": "Alternative text, English",
+                              "caption": "Caption, English",
+                              "decorativeImage": false
+                            }
+                          },
+                          "callToAction": [
+                            {
+                              "metadata": { "tags": [], "concepts": [] },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "3bmgsNGiZNyfdiCTDomUzR",
+                                "type": "Entry",
+                                "createdAt": "2025-01-02T20:37:58.538Z",
+                                "updatedAt": "2025-01-02T20:37:58.538Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 2,
+                                "revision": 1,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "callToAction"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": {
+                                "name": "Call to action 2",
+                                "ctaText": "CTA text, English",
+                                "ctaSubcopy": {
+                                  "data": {},
+                                  "content": [
+                                    {
+                                      "data": {},
+                                      "content": [
+                                        {
+                                          "data": {},
+                                          "marks": [],
+                                          "value": "CTA subcopy, English. This example type has values for all fields, including fr-CA values for localizable fields.",
+                                          "nodeType": "text"
+                                        }
+                                      ],
+                                      "nodeType": "paragraph"
+                                    }
+                                  ],
+                                  "nodeType": "document"
+                                },
+                                "image": {
+                                  "metadata": { "tags": [], "concepts": [] },
+                                  "sys": {
+                                    "space": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "Space",
+                                        "id": "i75ffwojme8c"
+                                      }
+                                    },
+                                    "id": "2NPFrU3nlj9eauWPYddbx4",
+                                    "type": "Entry",
+                                    "createdAt": "2025-01-02T20:30:58.043Z",
+                                    "updatedAt": "2025-01-02T20:30:58.043Z",
+                                    "environment": {
+                                      "sys": {
+                                        "id": "template-testing",
+                                        "type": "Link",
+                                        "linkType": "Environment"
+                                      }
+                                    },
+                                    "publishedVersion": 8,
+                                    "revision": 1,
+                                    "contentType": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "ContentType",
+                                        "id": "image"
+                                      }
+                                    },
+                                    "locale": "en-CA"
+                                  },
+                                  "fields": {
+                                    "name": "Image 1",
+                                    "imageAsset": {
+                                      "metadata": {
+                                        "tags": [],
+                                        "concepts": []
+                                      },
+                                      "sys": {
+                                        "space": {
+                                          "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "i75ffwojme8c"
+                                          }
+                                        },
+                                        "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                        "type": "Asset",
+                                        "createdAt": "2022-10-24T21:27:35.943Z",
+                                        "updatedAt": "2022-10-24T21:27:35.943Z",
+                                        "environment": {
+                                          "sys": {
+                                            "id": "template-testing",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                          }
+                                        },
+                                        "publishedVersion": 4,
+                                        "revision": 1,
+                                        "locale": "en-CA"
+                                      },
+                                      "fields": {
+                                        "title": "Fish",
+                                        "description": "Fish",
+                                        "file": {
+                                          "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                          "details": {
+                                            "size": 416825,
+                                            "image": {
+                                              "width": 1200,
+                                              "height": 1330
+                                            }
+                                          },
+                                          "fileName": "fish.jpg",
+                                          "contentType": "image/jpeg"
+                                        }
+                                      }
+                                    },
+                                    "alternativeText": "Alternative text, English",
+                                    "caption": "Caption, English",
+                                    "decorativeImage": false
+                                  }
+                                },
+                                "url": "https://www.telus.com/en",
+                                "appUrl": "example-app://en",
+                                "ariaLabel": "ARIA label, English"
+                              }
+                            }
+                          ],
+                          "analyticsIdentifier": "promotion-kevin-test-abbc",
+                          "audiences": [
+                            {
+                              "metadata": {
+                                "tags": [],
+                                "concepts": [
+                                  {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "TaxonomyConcept",
+                                      "id": "2J3clHfSsgLCSullBNWPfw"
+                                    }
+                                  },
+                                  {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "TaxonomyConcept",
+                                      "id": "48B0SBB8XAoYqyI86RmJu5"
+                                    }
+                                  }
+                                ]
+                              },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "6ktFKCgRArnnNbuvaCUynM",
+                                "type": "Entry",
+                                "createdAt": "2025-02-18T16:35:46.485Z",
+                                "updatedAt": "2025-03-06T14:25:35.684Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 7,
+                                "revision": 3,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "audienceTaxonomyVersion"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": { "name": " ABBC", "default": false }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                "analyticsIdentifier": "regionalization-testing-promotion-kevin"
+              }
+            },
+            {
+              "metadata": { "tags": [], "concepts": [] },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "i75ffwojme8c"
+                  }
+                },
+                "id": "7wHjkGKfwRb8eWUOejs8ci",
+                "type": "Entry",
+                "createdAt": "2025-02-19T14:23:09.549Z",
+                "updatedAt": "2025-03-12T22:10:54.542Z",
+                "environment": {
+                  "sys": {
+                    "id": "template-testing",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 8,
+                "revision": 3,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "listItem"
+                  }
+                },
+                "locale": "en-CA"
+              },
+              "fields": {
+                "name": "Regionalization testing - Promotion 22",
+                "itemListElement": {
+                  "metadata": { "tags": [], "concepts": [] },
+                  "sys": {
+                    "space": {
+                      "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "i75ffwojme8c"
+                      }
+                    },
+                    "id": "7tMZLoDd5OBxkvpWHHamVY",
+                    "type": "Entry",
+                    "createdAt": "2025-02-19T14:23:09.563Z",
+                    "updatedAt": "2025-03-12T22:10:49.441Z",
+                    "environment": {
+                      "sys": {
+                        "id": "template-testing",
+                        "type": "Link",
+                        "linkType": "Environment"
+                      }
+                    },
+                    "publishedVersion": 7,
+                    "revision": 2,
+                    "contentType": {
+                      "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "contentVariants"
+                      }
+                    },
+                    "locale": "en-CA"
+                  },
+                  "fields": {
+                    "name": "Regionalization testing - Promotion 22",
+                    "content": [
+                      {
+                        "metadata": { "tags": [], "concepts": [] },
+                        "sys": {
+                          "space": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "Space",
+                              "id": "i75ffwojme8c"
+                            }
+                          },
+                          "id": "5MEkuzhEj7FgNrpNE1M5Xj",
+                          "type": "Entry",
+                          "createdAt": "2025-02-19T14:23:09.591Z",
+                          "updatedAt": "2025-03-12T22:09:39.539Z",
+                          "environment": {
+                            "sys": {
+                              "id": "template-testing",
+                              "type": "Link",
+                              "linkType": "Environment"
+                            }
+                          },
+                          "publishedVersion": 10,
+                          "revision": 4,
+                          "contentType": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "ContentType",
+                              "id": "promotion"
+                            }
+                          },
+                          "locale": "en-CA"
+                        },
+                        "fields": {
+                          "name": "Regionalization testing - Promotion 2",
+                          "label": "Regionalization testing - Promotion 2 ",
+                          "superHeading": "Regionalization testing - Promotion 2 ",
+                          "heading": "Regionalization testing - Promotion 2 (default audience)",
+                          "subHeading": "Regionalization testing - Promotion 2 ",
+                          "copy": {
+                            "data": {},
+                            "content": [
+                              {
+                                "data": {},
+                                "content": [
+                                  {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Regionalization testing - Promotion 2 ",
+                                    "nodeType": "text"
+                                  }
+                                ],
+                                "nodeType": "paragraph"
+                              }
+                            ],
+                            "nodeType": "document"
+                          },
+                          "image": {
+                            "metadata": { "tags": [], "concepts": [] },
+                            "sys": {
+                              "space": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "Space",
+                                  "id": "i75ffwojme8c"
+                                }
+                              },
+                              "id": "7HG1rNlO539eQbYRToqESv",
+                              "type": "Entry",
+                              "createdAt": "2025-01-02T20:38:17.088Z",
+                              "updatedAt": "2025-01-02T20:38:17.088Z",
+                              "environment": {
+                                "sys": {
+                                  "id": "template-testing",
+                                  "type": "Link",
+                                  "linkType": "Environment"
+                                }
+                              },
+                              "publishedVersion": 2,
+                              "revision": 1,
+                              "contentType": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "ContentType",
+                                  "id": "image"
+                                }
+                              },
+                              "locale": "en-CA"
+                            },
+                            "fields": {
+                              "name": "Image 2",
+                              "imageAsset": {
+                                "metadata": { "tags": [], "concepts": [] },
+                                "sys": {
+                                  "space": {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "Space",
+                                      "id": "i75ffwojme8c"
+                                    }
+                                  },
+                                  "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                  "type": "Asset",
+                                  "createdAt": "2022-10-24T21:27:35.943Z",
+                                  "updatedAt": "2022-10-24T21:27:35.943Z",
+                                  "environment": {
+                                    "sys": {
+                                      "id": "template-testing",
+                                      "type": "Link",
+                                      "linkType": "Environment"
+                                    }
+                                  },
+                                  "publishedVersion": 4,
+                                  "revision": 1,
+                                  "locale": "en-CA"
+                                },
+                                "fields": {
+                                  "title": "Fish",
+                                  "description": "Fish",
+                                  "file": {
+                                    "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                    "details": {
+                                      "size": 416825,
+                                      "image": { "width": 1200, "height": 1330 }
+                                    },
+                                    "fileName": "fish.jpg",
+                                    "contentType": "image/jpeg"
+                                  }
+                                }
+                              },
+                              "alternativeText": "Alternative text, English",
+                              "caption": "Caption, English",
+                              "decorativeImage": false
+                            }
+                          },
+                          "callToAction": [
+                            {
+                              "metadata": { "tags": [], "concepts": [] },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "Hcpmbfgzy8XjFRhOLoxB3",
+                                "type": "Entry",
+                                "createdAt": "2025-01-02T20:37:08.383Z",
+                                "updatedAt": "2025-02-25T17:38:20.192Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 21,
+                                "revision": 2,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "callToAction"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": {
+                                "name": "Call to action 1",
+                                "ctaText": "CTA text, English1",
+                                "ctaSubcopy": {
+                                  "data": {},
+                                  "content": [
+                                    {
+                                      "data": {},
+                                      "content": [
+                                        {
+                                          "data": {},
+                                          "marks": [],
+                                          "value": "CTA subcopy, English. This example type has values for all fields, including fr-CA values for localizable fields.",
+                                          "nodeType": "text"
+                                        }
+                                      ],
+                                      "nodeType": "paragraph"
+                                    }
+                                  ],
+                                  "nodeType": "document"
+                                },
+                                "image": {
+                                  "metadata": { "tags": [], "concepts": [] },
+                                  "sys": {
+                                    "space": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "Space",
+                                        "id": "i75ffwojme8c"
+                                      }
+                                    },
+                                    "id": "2NPFrU3nlj9eauWPYddbx4",
+                                    "type": "Entry",
+                                    "createdAt": "2025-01-02T20:30:58.043Z",
+                                    "updatedAt": "2025-01-02T20:30:58.043Z",
+                                    "environment": {
+                                      "sys": {
+                                        "id": "template-testing",
+                                        "type": "Link",
+                                        "linkType": "Environment"
+                                      }
+                                    },
+                                    "publishedVersion": 8,
+                                    "revision": 1,
+                                    "contentType": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "ContentType",
+                                        "id": "image"
+                                      }
+                                    },
+                                    "locale": "en-CA"
+                                  },
+                                  "fields": {
+                                    "name": "Image 1",
+                                    "imageAsset": {
+                                      "metadata": {
+                                        "tags": [],
+                                        "concepts": []
+                                      },
+                                      "sys": {
+                                        "space": {
+                                          "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "i75ffwojme8c"
+                                          }
+                                        },
+                                        "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                        "type": "Asset",
+                                        "createdAt": "2022-10-24T21:27:35.943Z",
+                                        "updatedAt": "2022-10-24T21:27:35.943Z",
+                                        "environment": {
+                                          "sys": {
+                                            "id": "template-testing",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                          }
+                                        },
+                                        "publishedVersion": 4,
+                                        "revision": 1,
+                                        "locale": "en-CA"
+                                      },
+                                      "fields": {
+                                        "title": "Fish",
+                                        "description": "Fish",
+                                        "file": {
+                                          "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                          "details": {
+                                            "size": 416825,
+                                            "image": {
+                                              "width": 1200,
+                                              "height": 1330
+                                            }
+                                          },
+                                          "fileName": "fish.jpg",
+                                          "contentType": "image/jpeg"
+                                        }
+                                      }
+                                    },
+                                    "alternativeText": "Alternative text, English",
+                                    "caption": "Caption, English",
+                                    "decorativeImage": false
+                                  }
+                                },
+                                "url": "https://www.telus.com/en",
+                                "appUrl": "example-app://en",
+                                "ariaLabel": "ARIA label, English"
+                              }
+                            }
+                          ],
+                          "analyticsIdentifier": "regionalization-testing-promotion-2",
+                          "audiences": [
+                            {
+                              "metadata": { "tags": [], "concepts": [] },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "1cDycqdNeawsp3rIGumQCL",
+                                "type": "Entry",
+                                "createdAt": "2025-02-19T14:23:09.607Z",
+                                "updatedAt": "2025-02-26T17:15:51.206Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 6,
+                                "revision": 3,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "audienceTaxonomyVersion"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": { "name": "Default", "default": true }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "metadata": { "tags": [], "concepts": [] },
+                        "sys": {
+                          "space": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "Space",
+                              "id": "i75ffwojme8c"
+                            }
+                          },
+                          "id": "6obGspPG51qJ6MhVVgHZ0t",
+                          "type": "Entry",
+                          "createdAt": "2025-02-19T14:23:09.635Z",
+                          "updatedAt": "2025-02-26T15:14:50.675Z",
+                          "environment": {
+                            "sys": {
+                              "id": "template-testing",
+                              "type": "Link",
+                              "linkType": "Environment"
+                            }
+                          },
+                          "publishedVersion": 10,
+                          "revision": 3,
+                          "contentType": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "ContentType",
+                              "id": "promotion"
+                            }
+                          },
+                          "locale": "en-CA"
+                        },
+                        "fields": {
+                          "name": "Regionalization testing - Promotion 2 - ABBC",
+                          "label": "Regionalization testing - Promotion 2 - ABBC",
+                          "superHeading": "Regionalization testing - Promotion 2 - ABBC",
+                          "heading": "Regionalization testing - Promotion 2 - ABBC",
+                          "copy": {
+                            "data": {},
+                            "content": [
+                              {
+                                "data": {},
+                                "content": [
+                                  {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Regionalization testing - Promotion 2 - ABBC",
+                                    "nodeType": "text"
+                                  }
+                                ],
+                                "nodeType": "paragraph"
+                              }
+                            ],
+                            "nodeType": "document"
+                          },
+                          "image": {
+                            "metadata": { "tags": [], "concepts": [] },
+                            "sys": {
+                              "space": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "Space",
+                                  "id": "i75ffwojme8c"
+                                }
+                              },
+                              "id": "7HG1rNlO539eQbYRToqESv",
+                              "type": "Entry",
+                              "createdAt": "2025-01-02T20:38:17.088Z",
+                              "updatedAt": "2025-01-02T20:38:17.088Z",
+                              "environment": {
+                                "sys": {
+                                  "id": "template-testing",
+                                  "type": "Link",
+                                  "linkType": "Environment"
+                                }
+                              },
+                              "publishedVersion": 2,
+                              "revision": 1,
+                              "contentType": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "ContentType",
+                                  "id": "image"
+                                }
+                              },
+                              "locale": "en-CA"
+                            },
+                            "fields": {
+                              "name": "Image 2",
+                              "imageAsset": {
+                                "metadata": { "tags": [], "concepts": [] },
+                                "sys": {
+                                  "space": {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "Space",
+                                      "id": "i75ffwojme8c"
+                                    }
+                                  },
+                                  "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                  "type": "Asset",
+                                  "createdAt": "2022-10-24T21:27:35.943Z",
+                                  "updatedAt": "2022-10-24T21:27:35.943Z",
+                                  "environment": {
+                                    "sys": {
+                                      "id": "template-testing",
+                                      "type": "Link",
+                                      "linkType": "Environment"
+                                    }
+                                  },
+                                  "publishedVersion": 4,
+                                  "revision": 1,
+                                  "locale": "en-CA"
+                                },
+                                "fields": {
+                                  "title": "Fish",
+                                  "description": "Fish",
+                                  "file": {
+                                    "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                    "details": {
+                                      "size": 416825,
+                                      "image": { "width": 1200, "height": 1330 }
+                                    },
+                                    "fileName": "fish.jpg",
+                                    "contentType": "image/jpeg"
+                                  }
+                                }
+                              },
+                              "alternativeText": "Alternative text, English",
+                              "caption": "Caption, English",
+                              "decorativeImage": false
+                            }
+                          },
+                          "callToAction": [
+                            {
+                              "metadata": { "tags": [], "concepts": [] },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "3bmgsNGiZNyfdiCTDomUzR",
+                                "type": "Entry",
+                                "createdAt": "2025-01-02T20:37:58.538Z",
+                                "updatedAt": "2025-01-02T20:37:58.538Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 2,
+                                "revision": 1,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "callToAction"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": {
+                                "name": "Call to action 2",
+                                "ctaText": "CTA text, English",
+                                "ctaSubcopy": {
+                                  "data": {},
+                                  "content": [
+                                    {
+                                      "data": {},
+                                      "content": [
+                                        {
+                                          "data": {},
+                                          "marks": [],
+                                          "value": "CTA subcopy, English. This example type has values for all fields, including fr-CA values for localizable fields.",
+                                          "nodeType": "text"
+                                        }
+                                      ],
+                                      "nodeType": "paragraph"
+                                    }
+                                  ],
+                                  "nodeType": "document"
+                                },
+                                "image": {
+                                  "metadata": { "tags": [], "concepts": [] },
+                                  "sys": {
+                                    "space": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "Space",
+                                        "id": "i75ffwojme8c"
+                                      }
+                                    },
+                                    "id": "2NPFrU3nlj9eauWPYddbx4",
+                                    "type": "Entry",
+                                    "createdAt": "2025-01-02T20:30:58.043Z",
+                                    "updatedAt": "2025-01-02T20:30:58.043Z",
+                                    "environment": {
+                                      "sys": {
+                                        "id": "template-testing",
+                                        "type": "Link",
+                                        "linkType": "Environment"
+                                      }
+                                    },
+                                    "publishedVersion": 8,
+                                    "revision": 1,
+                                    "contentType": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "ContentType",
+                                        "id": "image"
+                                      }
+                                    },
+                                    "locale": "en-CA"
+                                  },
+                                  "fields": {
+                                    "name": "Image 1",
+                                    "imageAsset": {
+                                      "metadata": {
+                                        "tags": [],
+                                        "concepts": []
+                                      },
+                                      "sys": {
+                                        "space": {
+                                          "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "i75ffwojme8c"
+                                          }
+                                        },
+                                        "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                        "type": "Asset",
+                                        "createdAt": "2022-10-24T21:27:35.943Z",
+                                        "updatedAt": "2022-10-24T21:27:35.943Z",
+                                        "environment": {
+                                          "sys": {
+                                            "id": "template-testing",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                          }
+                                        },
+                                        "publishedVersion": 4,
+                                        "revision": 1,
+                                        "locale": "en-CA"
+                                      },
+                                      "fields": {
+                                        "title": "Fish",
+                                        "description": "Fish",
+                                        "file": {
+                                          "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                          "details": {
+                                            "size": 416825,
+                                            "image": {
+                                              "width": 1200,
+                                              "height": 1330
+                                            }
+                                          },
+                                          "fileName": "fish.jpg",
+                                          "contentType": "image/jpeg"
+                                        }
+                                      }
+                                    },
+                                    "alternativeText": "Alternative text, English",
+                                    "caption": "Caption, English",
+                                    "decorativeImage": false
+                                  }
+                                },
+                                "url": "https://www.telus.com/en",
+                                "appUrl": "example-app://en",
+                                "ariaLabel": "ARIA label, English"
+                              }
+                            }
+                          ],
+                          "analyticsIdentifier": "regionalization-testing-promotion-2-abbc",
+                          "audiences": [
+                            {
+                              "metadata": {
+                                "tags": [],
+                                "concepts": [
+                                  {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "TaxonomyConcept",
+                                      "id": "2J3clHfSsgLCSullBNWPfw"
+                                    }
+                                  },
+                                  {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "TaxonomyConcept",
+                                      "id": "48B0SBB8XAoYqyI86RmJu5"
+                                    }
+                                  }
+                                ]
+                              },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "6ktFKCgRArnnNbuvaCUynM",
+                                "type": "Entry",
+                                "createdAt": "2025-02-18T16:35:46.485Z",
+                                "updatedAt": "2025-03-06T14:25:35.684Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 7,
+                                "revision": 3,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "audienceTaxonomyVersion"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": { "name": " ABBC", "default": false }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                "analyticsIdentifier": "regionalization-testing-promotion-2"
+              }
+            }
+          ],
+          "itemListOrderType": "Ascending"
+        }
+      },
+      {
+        "metadata": { "tags": [], "concepts": [] },
+        "sys": {
+          "space": {
+            "sys": { "type": "Link", "linkType": "Space", "id": "i75ffwojme8c" }
+          },
+          "id": "1UTXod4jnPidVMVAy0splD",
+          "type": "Entry",
+          "createdAt": "2025-02-19T14:23:09.662Z",
+          "updatedAt": "2025-02-19T16:19:11.194Z",
+          "environment": {
+            "sys": {
+              "id": "template-testing",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "publishedVersion": 6,
+          "revision": 2,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "itemList"
+            }
+          },
+          "locale": "en-CA"
+        },
+        "fields": {
+          "name": "Regionalization testing - List - ABBC",
+          "heading": "Regionalization testing - List - ABBC",
+          "copy": {
+            "data": {},
+            "content": [
+              {
+                "data": {},
+                "content": [
+                  {
+                    "data": {},
+                    "marks": [],
+                    "value": "Regionalization testing - List - ABBC",
+                    "nodeType": "text"
+                  }
+                ],
+                "nodeType": "paragraph"
+              }
+            ],
+            "nodeType": "document"
+          },
+          "listItem": [
+            {
+              "metadata": { "tags": [], "concepts": [] },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "i75ffwojme8c"
+                  }
+                },
+                "id": "7wHjkGKfwRb8eWUOejs8ci",
+                "type": "Entry",
+                "createdAt": "2025-02-19T14:23:09.549Z",
+                "updatedAt": "2025-03-12T22:10:54.542Z",
+                "environment": {
+                  "sys": {
+                    "id": "template-testing",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 8,
+                "revision": 3,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "listItem"
+                  }
+                },
+                "locale": "en-CA"
+              },
+              "fields": {
+                "name": "Regionalization testing - Promotion 22",
+                "itemListElement": {
+                  "metadata": { "tags": [], "concepts": [] },
+                  "sys": {
+                    "space": {
+                      "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "i75ffwojme8c"
+                      }
+                    },
+                    "id": "7tMZLoDd5OBxkvpWHHamVY",
+                    "type": "Entry",
+                    "createdAt": "2025-02-19T14:23:09.563Z",
+                    "updatedAt": "2025-03-12T22:10:49.441Z",
+                    "environment": {
+                      "sys": {
+                        "id": "template-testing",
+                        "type": "Link",
+                        "linkType": "Environment"
+                      }
+                    },
+                    "publishedVersion": 7,
+                    "revision": 2,
+                    "contentType": {
+                      "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "contentVariants"
+                      }
+                    },
+                    "locale": "en-CA"
+                  },
+                  "fields": {
+                    "name": "Regionalization testing - Promotion 22",
+                    "content": [
+                      {
+                        "metadata": { "tags": [], "concepts": [] },
+                        "sys": {
+                          "space": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "Space",
+                              "id": "i75ffwojme8c"
+                            }
+                          },
+                          "id": "5MEkuzhEj7FgNrpNE1M5Xj",
+                          "type": "Entry",
+                          "createdAt": "2025-02-19T14:23:09.591Z",
+                          "updatedAt": "2025-03-12T22:09:39.539Z",
+                          "environment": {
+                            "sys": {
+                              "id": "template-testing",
+                              "type": "Link",
+                              "linkType": "Environment"
+                            }
+                          },
+                          "publishedVersion": 10,
+                          "revision": 4,
+                          "contentType": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "ContentType",
+                              "id": "promotion"
+                            }
+                          },
+                          "locale": "en-CA"
+                        },
+                        "fields": {
+                          "name": "Regionalization testing - Promotion 2",
+                          "label": "Regionalization testing - Promotion 2 ",
+                          "superHeading": "Regionalization testing - Promotion 2 ",
+                          "heading": "Regionalization testing - Promotion 2 (default audience)",
+                          "subHeading": "Regionalization testing - Promotion 2 ",
+                          "copy": {
+                            "data": {},
+                            "content": [
+                              {
+                                "data": {},
+                                "content": [
+                                  {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Regionalization testing - Promotion 2 ",
+                                    "nodeType": "text"
+                                  }
+                                ],
+                                "nodeType": "paragraph"
+                              }
+                            ],
+                            "nodeType": "document"
+                          },
+                          "image": {
+                            "metadata": { "tags": [], "concepts": [] },
+                            "sys": {
+                              "space": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "Space",
+                                  "id": "i75ffwojme8c"
+                                }
+                              },
+                              "id": "7HG1rNlO539eQbYRToqESv",
+                              "type": "Entry",
+                              "createdAt": "2025-01-02T20:38:17.088Z",
+                              "updatedAt": "2025-01-02T20:38:17.088Z",
+                              "environment": {
+                                "sys": {
+                                  "id": "template-testing",
+                                  "type": "Link",
+                                  "linkType": "Environment"
+                                }
+                              },
+                              "publishedVersion": 2,
+                              "revision": 1,
+                              "contentType": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "ContentType",
+                                  "id": "image"
+                                }
+                              },
+                              "locale": "en-CA"
+                            },
+                            "fields": {
+                              "name": "Image 2",
+                              "imageAsset": {
+                                "metadata": { "tags": [], "concepts": [] },
+                                "sys": {
+                                  "space": {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "Space",
+                                      "id": "i75ffwojme8c"
+                                    }
+                                  },
+                                  "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                  "type": "Asset",
+                                  "createdAt": "2022-10-24T21:27:35.943Z",
+                                  "updatedAt": "2022-10-24T21:27:35.943Z",
+                                  "environment": {
+                                    "sys": {
+                                      "id": "template-testing",
+                                      "type": "Link",
+                                      "linkType": "Environment"
+                                    }
+                                  },
+                                  "publishedVersion": 4,
+                                  "revision": 1,
+                                  "locale": "en-CA"
+                                },
+                                "fields": {
+                                  "title": "Fish",
+                                  "description": "Fish",
+                                  "file": {
+                                    "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                    "details": {
+                                      "size": 416825,
+                                      "image": { "width": 1200, "height": 1330 }
+                                    },
+                                    "fileName": "fish.jpg",
+                                    "contentType": "image/jpeg"
+                                  }
+                                }
+                              },
+                              "alternativeText": "Alternative text, English",
+                              "caption": "Caption, English",
+                              "decorativeImage": false
+                            }
+                          },
+                          "callToAction": [
+                            {
+                              "metadata": { "tags": [], "concepts": [] },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "Hcpmbfgzy8XjFRhOLoxB3",
+                                "type": "Entry",
+                                "createdAt": "2025-01-02T20:37:08.383Z",
+                                "updatedAt": "2025-02-25T17:38:20.192Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 21,
+                                "revision": 2,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "callToAction"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": {
+                                "name": "Call to action 1",
+                                "ctaText": "CTA text, English1",
+                                "ctaSubcopy": {
+                                  "data": {},
+                                  "content": [
+                                    {
+                                      "data": {},
+                                      "content": [
+                                        {
+                                          "data": {},
+                                          "marks": [],
+                                          "value": "CTA subcopy, English. This example type has values for all fields, including fr-CA values for localizable fields.",
+                                          "nodeType": "text"
+                                        }
+                                      ],
+                                      "nodeType": "paragraph"
+                                    }
+                                  ],
+                                  "nodeType": "document"
+                                },
+                                "image": {
+                                  "metadata": { "tags": [], "concepts": [] },
+                                  "sys": {
+                                    "space": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "Space",
+                                        "id": "i75ffwojme8c"
+                                      }
+                                    },
+                                    "id": "2NPFrU3nlj9eauWPYddbx4",
+                                    "type": "Entry",
+                                    "createdAt": "2025-01-02T20:30:58.043Z",
+                                    "updatedAt": "2025-01-02T20:30:58.043Z",
+                                    "environment": {
+                                      "sys": {
+                                        "id": "template-testing",
+                                        "type": "Link",
+                                        "linkType": "Environment"
+                                      }
+                                    },
+                                    "publishedVersion": 8,
+                                    "revision": 1,
+                                    "contentType": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "ContentType",
+                                        "id": "image"
+                                      }
+                                    },
+                                    "locale": "en-CA"
+                                  },
+                                  "fields": {
+                                    "name": "Image 1",
+                                    "imageAsset": {
+                                      "metadata": {
+                                        "tags": [],
+                                        "concepts": []
+                                      },
+                                      "sys": {
+                                        "space": {
+                                          "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "i75ffwojme8c"
+                                          }
+                                        },
+                                        "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                        "type": "Asset",
+                                        "createdAt": "2022-10-24T21:27:35.943Z",
+                                        "updatedAt": "2022-10-24T21:27:35.943Z",
+                                        "environment": {
+                                          "sys": {
+                                            "id": "template-testing",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                          }
+                                        },
+                                        "publishedVersion": 4,
+                                        "revision": 1,
+                                        "locale": "en-CA"
+                                      },
+                                      "fields": {
+                                        "title": "Fish",
+                                        "description": "Fish",
+                                        "file": {
+                                          "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                          "details": {
+                                            "size": 416825,
+                                            "image": {
+                                              "width": 1200,
+                                              "height": 1330
+                                            }
+                                          },
+                                          "fileName": "fish.jpg",
+                                          "contentType": "image/jpeg"
+                                        }
+                                      }
+                                    },
+                                    "alternativeText": "Alternative text, English",
+                                    "caption": "Caption, English",
+                                    "decorativeImage": false
+                                  }
+                                },
+                                "url": "https://www.telus.com/en",
+                                "appUrl": "example-app://en",
+                                "ariaLabel": "ARIA label, English"
+                              }
+                            }
+                          ],
+                          "analyticsIdentifier": "regionalization-testing-promotion-2",
+                          "audiences": [
+                            {
+                              "metadata": { "tags": [], "concepts": [] },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "1cDycqdNeawsp3rIGumQCL",
+                                "type": "Entry",
+                                "createdAt": "2025-02-19T14:23:09.607Z",
+                                "updatedAt": "2025-02-26T17:15:51.206Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 6,
+                                "revision": 3,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "audienceTaxonomyVersion"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": { "name": "Default", "default": true }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "metadata": { "tags": [], "concepts": [] },
+                        "sys": {
+                          "space": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "Space",
+                              "id": "i75ffwojme8c"
+                            }
+                          },
+                          "id": "6obGspPG51qJ6MhVVgHZ0t",
+                          "type": "Entry",
+                          "createdAt": "2025-02-19T14:23:09.635Z",
+                          "updatedAt": "2025-02-26T15:14:50.675Z",
+                          "environment": {
+                            "sys": {
+                              "id": "template-testing",
+                              "type": "Link",
+                              "linkType": "Environment"
+                            }
+                          },
+                          "publishedVersion": 10,
+                          "revision": 3,
+                          "contentType": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "ContentType",
+                              "id": "promotion"
+                            }
+                          },
+                          "locale": "en-CA"
+                        },
+                        "fields": {
+                          "name": "Regionalization testing - Promotion 2 - ABBC",
+                          "label": "Regionalization testing - Promotion 2 - ABBC",
+                          "superHeading": "Regionalization testing - Promotion 2 - ABBC",
+                          "heading": "Regionalization testing - Promotion 2 - ABBC",
+                          "copy": {
+                            "data": {},
+                            "content": [
+                              {
+                                "data": {},
+                                "content": [
+                                  {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Regionalization testing - Promotion 2 - ABBC",
+                                    "nodeType": "text"
+                                  }
+                                ],
+                                "nodeType": "paragraph"
+                              }
+                            ],
+                            "nodeType": "document"
+                          },
+                          "image": {
+                            "metadata": { "tags": [], "concepts": [] },
+                            "sys": {
+                              "space": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "Space",
+                                  "id": "i75ffwojme8c"
+                                }
+                              },
+                              "id": "7HG1rNlO539eQbYRToqESv",
+                              "type": "Entry",
+                              "createdAt": "2025-01-02T20:38:17.088Z",
+                              "updatedAt": "2025-01-02T20:38:17.088Z",
+                              "environment": {
+                                "sys": {
+                                  "id": "template-testing",
+                                  "type": "Link",
+                                  "linkType": "Environment"
+                                }
+                              },
+                              "publishedVersion": 2,
+                              "revision": 1,
+                              "contentType": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "ContentType",
+                                  "id": "image"
+                                }
+                              },
+                              "locale": "en-CA"
+                            },
+                            "fields": {
+                              "name": "Image 2",
+                              "imageAsset": {
+                                "metadata": { "tags": [], "concepts": [] },
+                                "sys": {
+                                  "space": {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "Space",
+                                      "id": "i75ffwojme8c"
+                                    }
+                                  },
+                                  "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                  "type": "Asset",
+                                  "createdAt": "2022-10-24T21:27:35.943Z",
+                                  "updatedAt": "2022-10-24T21:27:35.943Z",
+                                  "environment": {
+                                    "sys": {
+                                      "id": "template-testing",
+                                      "type": "Link",
+                                      "linkType": "Environment"
+                                    }
+                                  },
+                                  "publishedVersion": 4,
+                                  "revision": 1,
+                                  "locale": "en-CA"
+                                },
+                                "fields": {
+                                  "title": "Fish",
+                                  "description": "Fish",
+                                  "file": {
+                                    "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                    "details": {
+                                      "size": 416825,
+                                      "image": { "width": 1200, "height": 1330 }
+                                    },
+                                    "fileName": "fish.jpg",
+                                    "contentType": "image/jpeg"
+                                  }
+                                }
+                              },
+                              "alternativeText": "Alternative text, English",
+                              "caption": "Caption, English",
+                              "decorativeImage": false
+                            }
+                          },
+                          "callToAction": [
+                            {
+                              "metadata": { "tags": [], "concepts": [] },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "3bmgsNGiZNyfdiCTDomUzR",
+                                "type": "Entry",
+                                "createdAt": "2025-01-02T20:37:58.538Z",
+                                "updatedAt": "2025-01-02T20:37:58.538Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 2,
+                                "revision": 1,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "callToAction"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": {
+                                "name": "Call to action 2",
+                                "ctaText": "CTA text, English",
+                                "ctaSubcopy": {
+                                  "data": {},
+                                  "content": [
+                                    {
+                                      "data": {},
+                                      "content": [
+                                        {
+                                          "data": {},
+                                          "marks": [],
+                                          "value": "CTA subcopy, English. This example type has values for all fields, including fr-CA values for localizable fields.",
+                                          "nodeType": "text"
+                                        }
+                                      ],
+                                      "nodeType": "paragraph"
+                                    }
+                                  ],
+                                  "nodeType": "document"
+                                },
+                                "image": {
+                                  "metadata": { "tags": [], "concepts": [] },
+                                  "sys": {
+                                    "space": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "Space",
+                                        "id": "i75ffwojme8c"
+                                      }
+                                    },
+                                    "id": "2NPFrU3nlj9eauWPYddbx4",
+                                    "type": "Entry",
+                                    "createdAt": "2025-01-02T20:30:58.043Z",
+                                    "updatedAt": "2025-01-02T20:30:58.043Z",
+                                    "environment": {
+                                      "sys": {
+                                        "id": "template-testing",
+                                        "type": "Link",
+                                        "linkType": "Environment"
+                                      }
+                                    },
+                                    "publishedVersion": 8,
+                                    "revision": 1,
+                                    "contentType": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "ContentType",
+                                        "id": "image"
+                                      }
+                                    },
+                                    "locale": "en-CA"
+                                  },
+                                  "fields": {
+                                    "name": "Image 1",
+                                    "imageAsset": {
+                                      "metadata": {
+                                        "tags": [],
+                                        "concepts": []
+                                      },
+                                      "sys": {
+                                        "space": {
+                                          "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "i75ffwojme8c"
+                                          }
+                                        },
+                                        "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                        "type": "Asset",
+                                        "createdAt": "2022-10-24T21:27:35.943Z",
+                                        "updatedAt": "2022-10-24T21:27:35.943Z",
+                                        "environment": {
+                                          "sys": {
+                                            "id": "template-testing",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                          }
+                                        },
+                                        "publishedVersion": 4,
+                                        "revision": 1,
+                                        "locale": "en-CA"
+                                      },
+                                      "fields": {
+                                        "title": "Fish",
+                                        "description": "Fish",
+                                        "file": {
+                                          "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                          "details": {
+                                            "size": 416825,
+                                            "image": {
+                                              "width": 1200,
+                                              "height": 1330
+                                            }
+                                          },
+                                          "fileName": "fish.jpg",
+                                          "contentType": "image/jpeg"
+                                        }
+                                      }
+                                    },
+                                    "alternativeText": "Alternative text, English",
+                                    "caption": "Caption, English",
+                                    "decorativeImage": false
+                                  }
+                                },
+                                "url": "https://www.telus.com/en",
+                                "appUrl": "example-app://en",
+                                "ariaLabel": "ARIA label, English"
+                              }
+                            }
+                          ],
+                          "analyticsIdentifier": "regionalization-testing-promotion-2-abbc",
+                          "audiences": [
+                            {
+                              "metadata": {
+                                "tags": [],
+                                "concepts": [
+                                  {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "TaxonomyConcept",
+                                      "id": "2J3clHfSsgLCSullBNWPfw"
+                                    }
+                                  },
+                                  {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "TaxonomyConcept",
+                                      "id": "48B0SBB8XAoYqyI86RmJu5"
+                                    }
+                                  }
+                                ]
+                              },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "6ktFKCgRArnnNbuvaCUynM",
+                                "type": "Entry",
+                                "createdAt": "2025-02-18T16:35:46.485Z",
+                                "updatedAt": "2025-03-06T14:25:35.684Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 7,
+                                "revision": 3,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "audienceTaxonomyVersion"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": { "name": " ABBC", "default": false }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                "analyticsIdentifier": "regionalization-testing-promotion-2"
+              }
+            },
+            {
+              "metadata": { "tags": [], "concepts": [] },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "i75ffwojme8c"
+                  }
+                },
+                "id": "7IRjMqVpfdivUWZsAvgCFq",
+                "type": "Entry",
+                "createdAt": "2025-02-19T14:23:09.515Z",
+                "updatedAt": "2025-03-12T22:10:15.601Z",
+                "environment": {
+                  "sys": {
+                    "id": "template-testing",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 6,
+                "revision": 2,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "listItem"
+                  }
+                },
+                "locale": "en-CA"
+              },
+              "fields": {
+                "name": "Regionalization testing - Another Promotion Kevin",
+                "itemListElement": {
+                  "metadata": { "tags": [], "concepts": [] },
+                  "sys": {
+                    "space": {
+                      "sys": {
+                        "type": "Link",
+                        "linkType": "Space",
+                        "id": "i75ffwojme8c"
+                      }
+                    },
+                    "id": "6znQHfy9B8ZrIznFe4SlPV",
+                    "type": "Entry",
+                    "createdAt": "2025-02-18T16:35:46.264Z",
+                    "updatedAt": "2025-03-05T20:57:12.855Z",
+                    "environment": {
+                      "sys": {
+                        "id": "template-testing",
+                        "type": "Link",
+                        "linkType": "Environment"
+                      }
+                    },
+                    "publishedVersion": 12,
+                    "revision": 3,
+                    "contentType": {
+                      "sys": {
+                        "type": "Link",
+                        "linkType": "ContentType",
+                        "id": "contentVariants"
+                      }
+                    },
+                    "locale": "en-CA"
+                  },
+                  "fields": {
+                    "name": "Promotion - Kevin test",
+                    "content": [
+                      {
+                        "metadata": { "tags": [], "concepts": [] },
+                        "sys": {
+                          "space": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "Space",
+                              "id": "i75ffwojme8c"
+                            }
+                          },
+                          "id": "7u4uJ2d1weyp9JyNPf9uCq",
+                          "type": "Entry",
+                          "createdAt": "2025-02-18T16:35:46.312Z",
+                          "updatedAt": "2025-03-12T22:07:41.609Z",
+                          "environment": {
+                            "sys": {
+                              "id": "template-testing",
+                              "type": "Link",
+                              "linkType": "Environment"
+                            }
+                          },
+                          "publishedVersion": 37,
+                          "revision": 15,
+                          "contentType": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "ContentType",
+                              "id": "promotion"
+                            }
+                          },
+                          "locale": "en-CA"
+                        },
+                        "fields": {
+                          "name": "Promotion - Kevin test (no audience)",
+                          "label": "Promotion - Kevin test",
+                          "superHeading": "Promotion - Kevin test",
+                          "heading": "Promotion - Kevin test (no audience)",
+                          "subHeading": "Promotion - Kevin test",
+                          "copy": {
+                            "data": {},
+                            "content": [
+                              {
+                                "data": {},
+                                "content": [
+                                  {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Promotion - Kevin test",
+                                    "nodeType": "text"
+                                  }
+                                ],
+                                "nodeType": "paragraph"
+                              }
+                            ],
+                            "nodeType": "document"
+                          },
+                          "image": {
+                            "metadata": { "tags": [], "concepts": [] },
+                            "sys": {
+                              "space": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "Space",
+                                  "id": "i75ffwojme8c"
+                                }
+                              },
+                              "id": "2NPFrU3nlj9eauWPYddbx4",
+                              "type": "Entry",
+                              "createdAt": "2025-01-02T20:30:58.043Z",
+                              "updatedAt": "2025-01-02T20:30:58.043Z",
+                              "environment": {
+                                "sys": {
+                                  "id": "template-testing",
+                                  "type": "Link",
+                                  "linkType": "Environment"
+                                }
+                              },
+                              "publishedVersion": 8,
+                              "revision": 1,
+                              "contentType": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "ContentType",
+                                  "id": "image"
+                                }
+                              },
+                              "locale": "en-CA"
+                            },
+                            "fields": {
+                              "name": "Image 1",
+                              "imageAsset": {
+                                "metadata": { "tags": [], "concepts": [] },
+                                "sys": {
+                                  "space": {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "Space",
+                                      "id": "i75ffwojme8c"
+                                    }
+                                  },
+                                  "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                  "type": "Asset",
+                                  "createdAt": "2022-10-24T21:27:35.943Z",
+                                  "updatedAt": "2022-10-24T21:27:35.943Z",
+                                  "environment": {
+                                    "sys": {
+                                      "id": "template-testing",
+                                      "type": "Link",
+                                      "linkType": "Environment"
+                                    }
+                                  },
+                                  "publishedVersion": 4,
+                                  "revision": 1,
+                                  "locale": "en-CA"
+                                },
+                                "fields": {
+                                  "title": "Fish",
+                                  "description": "Fish",
+                                  "file": {
+                                    "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                    "details": {
+                                      "size": 416825,
+                                      "image": { "width": 1200, "height": 1330 }
+                                    },
+                                    "fileName": "fish.jpg",
+                                    "contentType": "image/jpeg"
+                                  }
+                                }
+                              },
+                              "alternativeText": "Alternative text, English",
+                              "caption": "Caption, English",
+                              "decorativeImage": false
+                            }
+                          },
+                          "callToAction": [
+                            {
+                              "metadata": { "tags": [], "concepts": [] },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "Hcpmbfgzy8XjFRhOLoxB3",
+                                "type": "Entry",
+                                "createdAt": "2025-01-02T20:37:08.383Z",
+                                "updatedAt": "2025-02-25T17:38:20.192Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 21,
+                                "revision": 2,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "callToAction"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": {
+                                "name": "Call to action 1",
+                                "ctaText": "CTA text, English1",
+                                "ctaSubcopy": {
+                                  "data": {},
+                                  "content": [
+                                    {
+                                      "data": {},
+                                      "content": [
+                                        {
+                                          "data": {},
+                                          "marks": [],
+                                          "value": "CTA subcopy, English. This example type has values for all fields, including fr-CA values for localizable fields.",
+                                          "nodeType": "text"
+                                        }
+                                      ],
+                                      "nodeType": "paragraph"
+                                    }
+                                  ],
+                                  "nodeType": "document"
+                                },
+                                "image": {
+                                  "metadata": { "tags": [], "concepts": [] },
+                                  "sys": {
+                                    "space": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "Space",
+                                        "id": "i75ffwojme8c"
+                                      }
+                                    },
+                                    "id": "2NPFrU3nlj9eauWPYddbx4",
+                                    "type": "Entry",
+                                    "createdAt": "2025-01-02T20:30:58.043Z",
+                                    "updatedAt": "2025-01-02T20:30:58.043Z",
+                                    "environment": {
+                                      "sys": {
+                                        "id": "template-testing",
+                                        "type": "Link",
+                                        "linkType": "Environment"
+                                      }
+                                    },
+                                    "publishedVersion": 8,
+                                    "revision": 1,
+                                    "contentType": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "ContentType",
+                                        "id": "image"
+                                      }
+                                    },
+                                    "locale": "en-CA"
+                                  },
+                                  "fields": {
+                                    "name": "Image 1",
+                                    "imageAsset": {
+                                      "metadata": {
+                                        "tags": [],
+                                        "concepts": []
+                                      },
+                                      "sys": {
+                                        "space": {
+                                          "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "i75ffwojme8c"
+                                          }
+                                        },
+                                        "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                        "type": "Asset",
+                                        "createdAt": "2022-10-24T21:27:35.943Z",
+                                        "updatedAt": "2022-10-24T21:27:35.943Z",
+                                        "environment": {
+                                          "sys": {
+                                            "id": "template-testing",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                          }
+                                        },
+                                        "publishedVersion": 4,
+                                        "revision": 1,
+                                        "locale": "en-CA"
+                                      },
+                                      "fields": {
+                                        "title": "Fish",
+                                        "description": "Fish",
+                                        "file": {
+                                          "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                          "details": {
+                                            "size": 416825,
+                                            "image": {
+                                              "width": 1200,
+                                              "height": 1330
+                                            }
+                                          },
+                                          "fileName": "fish.jpg",
+                                          "contentType": "image/jpeg"
+                                        }
+                                      }
+                                    },
+                                    "alternativeText": "Alternative text, English",
+                                    "caption": "Caption, English",
+                                    "decorativeImage": false
+                                  }
+                                },
+                                "url": "https://www.telus.com/en",
+                                "appUrl": "example-app://en",
+                                "ariaLabel": "ARIA label, English"
+                              }
+                            }
+                          ],
+                          "analyticsIdentifier": "promotion-kevin-test"
+                        }
+                      },
+                      {
+                        "metadata": { "tags": [], "concepts": [] },
+                        "sys": {
+                          "space": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "Space",
+                              "id": "i75ffwojme8c"
+                            }
+                          },
+                          "id": "57kpjh63iSxxaPacVePflv",
+                          "type": "Entry",
+                          "createdAt": "2025-02-18T16:35:46.511Z",
+                          "updatedAt": "2025-03-06T14:26:58.422Z",
+                          "environment": {
+                            "sys": {
+                              "id": "template-testing",
+                              "type": "Link",
+                              "linkType": "Environment"
+                            }
+                          },
+                          "publishedVersion": 21,
+                          "revision": 9,
+                          "contentType": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "ContentType",
+                              "id": "promotion"
+                            }
+                          },
+                          "locale": "en-CA"
+                        },
+                        "fields": {
+                          "name": "Promotion - Kevin test - QC",
+                          "label": "Promotion - Kevin test - QC",
+                          "superHeading": "Promotion - Kevin test - QC",
+                          "heading": "Promotion - Kevin test - QC",
+                          "subHeading": "Promotion - Kevin test - QC",
+                          "copy": {
+                            "data": {},
+                            "content": [
+                              {
+                                "data": {},
+                                "content": [
+                                  {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Promotion - Kevin test - QC",
+                                    "nodeType": "text"
+                                  }
+                                ],
+                                "nodeType": "paragraph"
+                              }
+                            ],
+                            "nodeType": "document"
+                          },
+                          "image": {
+                            "metadata": { "tags": [], "concepts": [] },
+                            "sys": {
+                              "space": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "Space",
+                                  "id": "i75ffwojme8c"
+                                }
+                              },
+                              "id": "2NPFrU3nlj9eauWPYddbx4",
+                              "type": "Entry",
+                              "createdAt": "2025-01-02T20:30:58.043Z",
+                              "updatedAt": "2025-01-02T20:30:58.043Z",
+                              "environment": {
+                                "sys": {
+                                  "id": "template-testing",
+                                  "type": "Link",
+                                  "linkType": "Environment"
+                                }
+                              },
+                              "publishedVersion": 8,
+                              "revision": 1,
+                              "contentType": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "ContentType",
+                                  "id": "image"
+                                }
+                              },
+                              "locale": "en-CA"
+                            },
+                            "fields": {
+                              "name": "Image 1",
+                              "imageAsset": {
+                                "metadata": { "tags": [], "concepts": [] },
+                                "sys": {
+                                  "space": {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "Space",
+                                      "id": "i75ffwojme8c"
+                                    }
+                                  },
+                                  "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                  "type": "Asset",
+                                  "createdAt": "2022-10-24T21:27:35.943Z",
+                                  "updatedAt": "2022-10-24T21:27:35.943Z",
+                                  "environment": {
+                                    "sys": {
+                                      "id": "template-testing",
+                                      "type": "Link",
+                                      "linkType": "Environment"
+                                    }
+                                  },
+                                  "publishedVersion": 4,
+                                  "revision": 1,
+                                  "locale": "en-CA"
+                                },
+                                "fields": {
+                                  "title": "Fish",
+                                  "description": "Fish",
+                                  "file": {
+                                    "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                    "details": {
+                                      "size": 416825,
+                                      "image": { "width": 1200, "height": 1330 }
+                                    },
+                                    "fileName": "fish.jpg",
+                                    "contentType": "image/jpeg"
+                                  }
+                                }
+                              },
+                              "alternativeText": "Alternative text, English",
+                              "caption": "Caption, English",
+                              "decorativeImage": false
+                            }
+                          },
+                          "callToAction": [
+                            {
+                              "metadata": { "tags": [], "concepts": [] },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "3bmgsNGiZNyfdiCTDomUzR",
+                                "type": "Entry",
+                                "createdAt": "2025-01-02T20:37:58.538Z",
+                                "updatedAt": "2025-01-02T20:37:58.538Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 2,
+                                "revision": 1,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "callToAction"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": {
+                                "name": "Call to action 2",
+                                "ctaText": "CTA text, English",
+                                "ctaSubcopy": {
+                                  "data": {},
+                                  "content": [
+                                    {
+                                      "data": {},
+                                      "content": [
+                                        {
+                                          "data": {},
+                                          "marks": [],
+                                          "value": "CTA subcopy, English. This example type has values for all fields, including fr-CA values for localizable fields.",
+                                          "nodeType": "text"
+                                        }
+                                      ],
+                                      "nodeType": "paragraph"
+                                    }
+                                  ],
+                                  "nodeType": "document"
+                                },
+                                "image": {
+                                  "metadata": { "tags": [], "concepts": [] },
+                                  "sys": {
+                                    "space": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "Space",
+                                        "id": "i75ffwojme8c"
+                                      }
+                                    },
+                                    "id": "2NPFrU3nlj9eauWPYddbx4",
+                                    "type": "Entry",
+                                    "createdAt": "2025-01-02T20:30:58.043Z",
+                                    "updatedAt": "2025-01-02T20:30:58.043Z",
+                                    "environment": {
+                                      "sys": {
+                                        "id": "template-testing",
+                                        "type": "Link",
+                                        "linkType": "Environment"
+                                      }
+                                    },
+                                    "publishedVersion": 8,
+                                    "revision": 1,
+                                    "contentType": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "ContentType",
+                                        "id": "image"
+                                      }
+                                    },
+                                    "locale": "en-CA"
+                                  },
+                                  "fields": {
+                                    "name": "Image 1",
+                                    "imageAsset": {
+                                      "metadata": {
+                                        "tags": [],
+                                        "concepts": []
+                                      },
+                                      "sys": {
+                                        "space": {
+                                          "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "i75ffwojme8c"
+                                          }
+                                        },
+                                        "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                        "type": "Asset",
+                                        "createdAt": "2022-10-24T21:27:35.943Z",
+                                        "updatedAt": "2022-10-24T21:27:35.943Z",
+                                        "environment": {
+                                          "sys": {
+                                            "id": "template-testing",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                          }
+                                        },
+                                        "publishedVersion": 4,
+                                        "revision": 1,
+                                        "locale": "en-CA"
+                                      },
+                                      "fields": {
+                                        "title": "Fish",
+                                        "description": "Fish",
+                                        "file": {
+                                          "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                          "details": {
+                                            "size": 416825,
+                                            "image": {
+                                              "width": 1200,
+                                              "height": 1330
+                                            }
+                                          },
+                                          "fileName": "fish.jpg",
+                                          "contentType": "image/jpeg"
+                                        }
+                                      }
+                                    },
+                                    "alternativeText": "Alternative text, English",
+                                    "caption": "Caption, English",
+                                    "decorativeImage": false
+                                  }
+                                },
+                                "url": "https://www.telus.com/en",
+                                "appUrl": "example-app://en",
+                                "ariaLabel": "ARIA label, English"
+                              }
+                            }
+                          ],
+                          "analyticsIdentifier": "promotion-kevin-test-qc",
+                          "audiences": [
+                            {
+                              "metadata": {
+                                "tags": [],
+                                "concepts": [
+                                  {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "TaxonomyConcept",
+                                      "id": "5iBKdR2Wg4LQNfBpULUEmR"
+                                    }
+                                  }
+                                ]
+                              },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "78vw4swV22v86dVhy6uemF",
+                                "type": "Entry",
+                                "createdAt": "2025-02-18T16:35:46.529Z",
+                                "updatedAt": "2025-02-18T16:35:46.529Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 2,
+                                "revision": 1,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "audienceTaxonomyVersion"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": {
+                                "name": "Promotion - Kevin test - QC",
+                                "default": false
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "metadata": { "tags": [], "concepts": [] },
+                        "sys": {
+                          "space": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "Space",
+                              "id": "i75ffwojme8c"
+                            }
+                          },
+                          "id": "MYKH1Nr5tNEzuafJm4wFl",
+                          "type": "Entry",
+                          "createdAt": "2025-02-18T16:35:46.467Z",
+                          "updatedAt": "2025-02-26T15:14:50.563Z",
+                          "environment": {
+                            "sys": {
+                              "id": "template-testing",
+                              "type": "Link",
+                              "linkType": "Environment"
+                            }
+                          },
+                          "publishedVersion": 8,
+                          "revision": 3,
+                          "contentType": {
+                            "sys": {
+                              "type": "Link",
+                              "linkType": "ContentType",
+                              "id": "promotion"
+                            }
+                          },
+                          "locale": "en-CA"
+                        },
+                        "fields": {
+                          "name": "Promotion - Kevin test - ABBC",
+                          "label": "Promotion - Kevin test - ABBC",
+                          "superHeading": "Promotion - Kevin test - ABBC",
+                          "heading": "Promotion - Kevin test - ABBC",
+                          "subHeading": "Promotion - Kevin test - ABBC",
+                          "copy": {
+                            "data": {},
+                            "content": [
+                              {
+                                "data": {},
+                                "content": [
+                                  {
+                                    "data": {},
+                                    "marks": [],
+                                    "value": "Promotion - Kevin test - ABBC",
+                                    "nodeType": "text"
+                                  }
+                                ],
+                                "nodeType": "paragraph"
+                              }
+                            ],
+                            "nodeType": "document"
+                          },
+                          "image": {
+                            "metadata": { "tags": [], "concepts": [] },
+                            "sys": {
+                              "space": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "Space",
+                                  "id": "i75ffwojme8c"
+                                }
+                              },
+                              "id": "2NPFrU3nlj9eauWPYddbx4",
+                              "type": "Entry",
+                              "createdAt": "2025-01-02T20:30:58.043Z",
+                              "updatedAt": "2025-01-02T20:30:58.043Z",
+                              "environment": {
+                                "sys": {
+                                  "id": "template-testing",
+                                  "type": "Link",
+                                  "linkType": "Environment"
+                                }
+                              },
+                              "publishedVersion": 8,
+                              "revision": 1,
+                              "contentType": {
+                                "sys": {
+                                  "type": "Link",
+                                  "linkType": "ContentType",
+                                  "id": "image"
+                                }
+                              },
+                              "locale": "en-CA"
+                            },
+                            "fields": {
+                              "name": "Image 1",
+                              "imageAsset": {
+                                "metadata": { "tags": [], "concepts": [] },
+                                "sys": {
+                                  "space": {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "Space",
+                                      "id": "i75ffwojme8c"
+                                    }
+                                  },
+                                  "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                  "type": "Asset",
+                                  "createdAt": "2022-10-24T21:27:35.943Z",
+                                  "updatedAt": "2022-10-24T21:27:35.943Z",
+                                  "environment": {
+                                    "sys": {
+                                      "id": "template-testing",
+                                      "type": "Link",
+                                      "linkType": "Environment"
+                                    }
+                                  },
+                                  "publishedVersion": 4,
+                                  "revision": 1,
+                                  "locale": "en-CA"
+                                },
+                                "fields": {
+                                  "title": "Fish",
+                                  "description": "Fish",
+                                  "file": {
+                                    "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                    "details": {
+                                      "size": 416825,
+                                      "image": { "width": 1200, "height": 1330 }
+                                    },
+                                    "fileName": "fish.jpg",
+                                    "contentType": "image/jpeg"
+                                  }
+                                }
+                              },
+                              "alternativeText": "Alternative text, English",
+                              "caption": "Caption, English",
+                              "decorativeImage": false
+                            }
+                          },
+                          "callToAction": [
+                            {
+                              "metadata": { "tags": [], "concepts": [] },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "3bmgsNGiZNyfdiCTDomUzR",
+                                "type": "Entry",
+                                "createdAt": "2025-01-02T20:37:58.538Z",
+                                "updatedAt": "2025-01-02T20:37:58.538Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 2,
+                                "revision": 1,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "callToAction"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": {
+                                "name": "Call to action 2",
+                                "ctaText": "CTA text, English",
+                                "ctaSubcopy": {
+                                  "data": {},
+                                  "content": [
+                                    {
+                                      "data": {},
+                                      "content": [
+                                        {
+                                          "data": {},
+                                          "marks": [],
+                                          "value": "CTA subcopy, English. This example type has values for all fields, including fr-CA values for localizable fields.",
+                                          "nodeType": "text"
+                                        }
+                                      ],
+                                      "nodeType": "paragraph"
+                                    }
+                                  ],
+                                  "nodeType": "document"
+                                },
+                                "image": {
+                                  "metadata": { "tags": [], "concepts": [] },
+                                  "sys": {
+                                    "space": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "Space",
+                                        "id": "i75ffwojme8c"
+                                      }
+                                    },
+                                    "id": "2NPFrU3nlj9eauWPYddbx4",
+                                    "type": "Entry",
+                                    "createdAt": "2025-01-02T20:30:58.043Z",
+                                    "updatedAt": "2025-01-02T20:30:58.043Z",
+                                    "environment": {
+                                      "sys": {
+                                        "id": "template-testing",
+                                        "type": "Link",
+                                        "linkType": "Environment"
+                                      }
+                                    },
+                                    "publishedVersion": 8,
+                                    "revision": 1,
+                                    "contentType": {
+                                      "sys": {
+                                        "type": "Link",
+                                        "linkType": "ContentType",
+                                        "id": "image"
+                                      }
+                                    },
+                                    "locale": "en-CA"
+                                  },
+                                  "fields": {
+                                    "name": "Image 1",
+                                    "imageAsset": {
+                                      "metadata": {
+                                        "tags": [],
+                                        "concepts": []
+                                      },
+                                      "sys": {
+                                        "space": {
+                                          "sys": {
+                                            "type": "Link",
+                                            "linkType": "Space",
+                                            "id": "i75ffwojme8c"
+                                          }
+                                        },
+                                        "id": "5HZGwumICj9ndDdOK7Hl0P",
+                                        "type": "Asset",
+                                        "createdAt": "2022-10-24T21:27:35.943Z",
+                                        "updatedAt": "2022-10-24T21:27:35.943Z",
+                                        "environment": {
+                                          "sys": {
+                                            "id": "template-testing",
+                                            "type": "Link",
+                                            "linkType": "Environment"
+                                          }
+                                        },
+                                        "publishedVersion": 4,
+                                        "revision": 1,
+                                        "locale": "en-CA"
+                                      },
+                                      "fields": {
+                                        "title": "Fish",
+                                        "description": "Fish",
+                                        "file": {
+                                          "url": "//images.ctfassets.net/i75ffwojme8c/5HZGwumICj9ndDdOK7Hl0P/ff477bcc7cdf41751e9a37210f204268/fish.jpg",
+                                          "details": {
+                                            "size": 416825,
+                                            "image": {
+                                              "width": 1200,
+                                              "height": 1330
+                                            }
+                                          },
+                                          "fileName": "fish.jpg",
+                                          "contentType": "image/jpeg"
+                                        }
+                                      }
+                                    },
+                                    "alternativeText": "Alternative text, English",
+                                    "caption": "Caption, English",
+                                    "decorativeImage": false
+                                  }
+                                },
+                                "url": "https://www.telus.com/en",
+                                "appUrl": "example-app://en",
+                                "ariaLabel": "ARIA label, English"
+                              }
+                            }
+                          ],
+                          "analyticsIdentifier": "promotion-kevin-test-abbc",
+                          "audiences": [
+                            {
+                              "metadata": {
+                                "tags": [],
+                                "concepts": [
+                                  {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "TaxonomyConcept",
+                                      "id": "2J3clHfSsgLCSullBNWPfw"
+                                    }
+                                  },
+                                  {
+                                    "sys": {
+                                      "type": "Link",
+                                      "linkType": "TaxonomyConcept",
+                                      "id": "48B0SBB8XAoYqyI86RmJu5"
+                                    }
+                                  }
+                                ]
+                              },
+                              "sys": {
+                                "space": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "Space",
+                                    "id": "i75ffwojme8c"
+                                  }
+                                },
+                                "id": "6ktFKCgRArnnNbuvaCUynM",
+                                "type": "Entry",
+                                "createdAt": "2025-02-18T16:35:46.485Z",
+                                "updatedAt": "2025-03-06T14:25:35.684Z",
+                                "environment": {
+                                  "sys": {
+                                    "id": "template-testing",
+                                    "type": "Link",
+                                    "linkType": "Environment"
+                                  }
+                                },
+                                "publishedVersion": 7,
+                                "revision": 3,
+                                "contentType": {
+                                  "sys": {
+                                    "type": "Link",
+                                    "linkType": "ContentType",
+                                    "id": "audienceTaxonomyVersion"
+                                  }
+                                },
+                                "locale": "en-CA"
+                              },
+                              "fields": { "name": " ABBC", "default": false }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                "analyticsIdentifier": "regionalization-testing-promotion-kevin"
+              }
+            }
+          ],
+          "itemListOrderType": "Ascending",
+          "audiences": [
+            {
+              "metadata": {
+                "tags": [],
+                "concepts": [
+                  {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "TaxonomyConcept",
+                      "id": "2J3clHfSsgLCSullBNWPfw"
+                    }
+                  },
+                  {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "TaxonomyConcept",
+                      "id": "48B0SBB8XAoYqyI86RmJu5"
+                    }
+                  }
+                ]
+              },
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "i75ffwojme8c"
+                  }
+                },
+                "id": "6ktFKCgRArnnNbuvaCUynM",
+                "type": "Entry",
+                "createdAt": "2025-02-18T16:35:46.485Z",
+                "updatedAt": "2025-03-06T14:25:35.684Z",
+                "environment": {
+                  "sys": {
+                    "id": "template-testing",
+                    "type": "Link",
+                    "linkType": "Environment"
+                  }
+                },
+                "publishedVersion": 7,
+                "revision": 3,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "audienceTaxonomyVersion"
+                  }
+                },
+                "locale": "en-CA"
+              },
+              "fields": { "name": " ABBC", "default": false }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
