@@ -7,10 +7,12 @@ export async function GET(req: NextRequest) {
     // Get search params
     const { searchParams } = new URL(req.url);
     const province = searchParams.get("province");
+    const clean = searchParams.get("clean");
+    const flat = searchParams.get("flat");
 
     const filteredData = filterByProvince(sample, province!, false);
 
-    const cleanedData = extractHeadings(filteredData, true);
+    const cleanedData = clean ? extractHeadings(filteredData, flat === "true") : filteredData;
 
     return NextResponse.json(cleanedData);
 }
