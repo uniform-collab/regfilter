@@ -18,17 +18,13 @@ export async function GET(req: NextRequest) {
     }
 
     try {
-        let data;
-
-        data = await getEntryById(entryId);
-        // Wrap single entry in array for consistent filtering
-        data = [data];
+        const data = await getEntryById(entryId);
 
         // Apply filtering if province is specified
         const filteredData = province ? filterByProvince(data, province, false) : data;
 
         // Apply heading extraction if requested
-        const cleanedData = headings === "true" ? extractHeadings(filteredData?.[0], flat === "true") : filteredData;
+        const cleanedData = headings === "true" ? extractHeadings(filteredData, flat === "true") : filteredData;
 
         return NextResponse.json(cleanedData);
     } catch (error) {
