@@ -14,20 +14,6 @@ const client = createClient({
     environment: process.env.CONTENTFUL_ENVIRONMENT || 'master',
 });
 
-export async function getEntries(contentType: string) {
-    try {
-        const response = await client.getEntries({
-            content_type: contentType,
-            include: 2, // Include 2 levels of linked entries
-        });
-
-        return response.items;
-    } catch (error) {
-        console.error('Error fetching entries from Contentful:', error);
-        throw error;
-    }
-}
-
 export async function getEntryById(entryId: string) {
     try {
         const entry = await client.getEntry(entryId, {
