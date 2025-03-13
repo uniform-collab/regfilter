@@ -21,7 +21,7 @@ export async function GET(req: NextRequest) {
         const data = await getEntryById(entryId);
 
         // Apply filtering if province is specified
-        const filteredData = province ? filterByProvince(data, province, false) : data;
+        const filteredData = filterByProvince(data, province as string, false);
 
         // Apply heading extraction if requested
         const cleanedData = headings === "true" ? extractHeadings(filteredData, flat === "true") : filteredData;
